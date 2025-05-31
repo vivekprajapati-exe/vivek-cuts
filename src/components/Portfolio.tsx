@@ -40,20 +40,20 @@ export const portfolioItems: PortfolioItem[] = [
   },
   {
     id: '3',
-    title: 'Busy Life Montage',
-    youtubeId: 'BtX3mxetrcs',
-    category: 'Commercial',
-    description: 'Storytelling that connects your brand values with your audience.',
+    title: 'Motion Graphics Edit',
+    youtubeId: 'c7mgoiNnQVU',
+    category: 'Motion',
+    description: 'A 1-minute motion graphics edit showcasing my skills in visual storytelling, smooth transitions, and engaging design. Crafted using After Effects, Premiere Pro, Photoshop, and Lightroom to demonstrate high-retention, cinematic editing.',
     tags: ['Corporate', 'Storytelling', 'Brand', 'Narrative'],
     featured: true
   },
   {
     id: '4',
-    title: 'After Effect great amv',
-    youtubeId: 'ebzL7YA2sGo',
+    title: 'Busy Life Montage',
+    youtubeId: 'BtX3mxetrcs',
     category: 'Film',
-    description: 'Dynamic editing synchronized perfectly with the rhythm and mood of the music.',
-    tags: ['Music Video', 'Rhythm Editing', 'Visual Effects', 'Dynamic']
+    description: 'Storytelling that connects your brand values with your audience.',
+    tags: ['Corporate', 'Storytelling', 'Brand', 'Narrative']
   },
   {
     id: '5',
